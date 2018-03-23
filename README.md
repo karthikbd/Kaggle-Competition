@@ -1,2 +1,2 @@
-# NLP
-Text Clasification
+# Kaggle Toxic comment classification
+Text Classification
